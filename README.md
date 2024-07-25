@@ -1,4 +1,4 @@
-![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
+![MasterHead](https://static.vecteezy.com/system/resources/previews/000/693/765/original/digital-connecting-banner-technology-polygon-background-vector.jpg)
 <h1 align="center">Hi 👋, I'm Prathish dev</h1>
 <h3 align="center">A passionate CAD Desinger from India </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
